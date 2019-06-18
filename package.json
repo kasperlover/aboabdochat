@@ -1,0 +1,22 @@
+{
+  "name": "aboabdochat",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A WebRTC video chat app using SimpleWebRTC.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Abo Abdo Hassan Allaham",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "handlebars": "^4.1.2",
+    "jquery": "^3.4.1",
+    "semantic-ui-css": "^2.4.1",
+    "simplewebrtc": "^3.0.2"
+  }
+}
