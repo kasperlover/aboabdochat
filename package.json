@@ -9,7 +9,6 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Abo Abdo Hassan Allaham",
   "license": "ISC",
   "dependencies": {
     "debug": "^4.1.1",
